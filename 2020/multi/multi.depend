@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580411199 source:c:\users\javier\documents\c++\multi\main.cpp
+	<iostream>
+	<conio.h>
+

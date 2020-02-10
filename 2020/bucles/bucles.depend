@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581090175 source:c:\users\javier\documents\c++\bucles\main.cpp
+	<iostream>
+	<conio.h>
+

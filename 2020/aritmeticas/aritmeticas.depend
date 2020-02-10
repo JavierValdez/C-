@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581089347 source:c:\users\javier\documents\c++\aritmeticas\main.cpp
+	<iostream>
+	<math.h>
+
