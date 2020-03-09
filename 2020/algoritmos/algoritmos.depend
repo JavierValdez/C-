@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582040272 source:d:\programacion\imet\nueva carpeta\algoritmos\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+

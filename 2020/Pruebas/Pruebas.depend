@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582524094 source:d:\programacion\imet\nueva carpeta\pruebas\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

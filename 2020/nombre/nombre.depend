@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582039575 source:d:\programacion\imet\nueva carpeta\nombre\main.cpp
+	<iostream>
+	<string.h>
+
